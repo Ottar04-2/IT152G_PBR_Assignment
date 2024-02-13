@@ -107,9 +107,9 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0.5
-  m_Range: 0.58996725
+  m_Color: {r: 0.9433962, g: 0.77522755, b: 0, a: 1}
+  m_Intensity: 2
+  m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -240,6 +240,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 8ea05623949478b4089fd611071569fd,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6c2d998ed02006249bd491c8fd0080ad, type: 2}
     - target: {fileID: 919132149155446097, guid: 8ea05623949478b4089fd611071569fd,
         type: 3}
       propertyPath: m_Name
