@@ -30564,7 +30564,7 @@ PrefabInstance:
     - target: {fileID: 3276072495004946286, guid: fa9ff628c85942a48b473341175ffc43,
         type: 3}
       propertyPath: m_Intensity
-      value: 1.79
+      value: 0.6
       objectReference: {fileID: 0}
     - target: {fileID: 7593355604327622823, guid: fa9ff628c85942a48b473341175ffc43,
         type: 3}
@@ -50829,6 +50829,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1607876687}
     m_Modifications:
+    - target: {fileID: 1310430906556346099, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310430906556346099, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310430906556346099, guid: f482e259b53700b4890301a9e27e6a14,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.01
+      objectReference: {fileID: 0}
     - target: {fileID: 1829663609878983753, guid: f482e259b53700b4890301a9e27e6a14,
         type: 3}
       propertyPath: m_StaticEditorFlags
